@@ -32,7 +32,7 @@ You should see a message from Serverless when you stack is removed.
 
 ## remove Hello-Retail application from your Amazon account
 
-Use the [Manage Login with Amazon](https://www.amazon.com/ap/adam) to remove the `HELLO-RETAIL-WEB-APP` application from your account.
+Use [Manage Login with Amazon](https://www.amazon.com/ap/adam) to remove the `HELLO-RETAIL-WEB-APP` application from your account.
 
 ## serverless reference
 
